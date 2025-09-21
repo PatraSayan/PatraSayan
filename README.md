@@ -1,3 +1,3 @@
-![Header](./your-header-image-name.png)
+![Header](./img/your-header-image-name.png)
 
 
