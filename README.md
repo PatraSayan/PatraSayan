@@ -3,7 +3,22 @@
 
 <!-- middle -->
 # 💫 About Me:
-I am currently diving into computational biology.<br>Currently, I am learning DSA.<br>I am working to bridge the gap between biology and computer science by leveraging Artificial Intelligence and Machine Learning.<br>I enjoy listening to music, coding, and reading books.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrasayan&label=Profile%20views&color=0e75b6&style=flat" alt="patrasayan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrasayan" alt="patrasayan" /></a> </p>
+
+- 🔭 I’m currently working on **Machine Learning and Deep Learning.**
+
+- 🌱 I’m currently learning **Data Structure and Algorithm**
+
+- 👨‍💻 All of my projects are available at [------ building ------](------ building ------)
+
+- 💬 Ask me about **Omics data analysis**
+
+- 📫 How to reach me **patrasayan2024@gmail.com**
+
+- 📄 Know about my experiences [--- working ----](--- working ----)
+
 
 
 ## 🌐 Socials:
@@ -28,24 +43,8 @@ I am currently diving into computational biology.<br>Currently, I am learning DS
 
 
 <!--- second part -->
-<h1 align="center">Hi 👋, I'm Sayan Patra</h1>
-<h3 align="center">A passionate computational biology student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrasayan&label=Profile%20views&color=0e75b6&style=flat" alt="patrasayan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrasayan" alt="patrasayan" /></a> </p>
-
-- 🔭 I’m currently working on **Machine Learning and Deep Learning.**
-
-- 🌱 I’m currently learning **Data Structure and Algorithm**
-
-- 👨‍💻 All of my projects are available at [------ building ------](------ building ------)
-
-- 💬 Ask me about **Omics data analysis**
-
-- 📫 How to reach me **patrasayan2024@gmail.com**
-
-- 📄 Know about my experiences [--- working ----](--- working ----)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
