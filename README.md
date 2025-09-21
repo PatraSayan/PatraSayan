@@ -40,7 +40,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PatraSayan&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrasayan&" alt="patrasayan" /></p>
 
 
 
