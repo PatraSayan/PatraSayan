@@ -1,7 +1,7 @@
 <!--header -->
 ![Header](./img/github-header-banner.png)
 
-<!-- middle -- >
+<!-- middle -->
 # 💫 About Me:
 I am currently diving into computational biology.<br>Currently, I am learning DSA.<br>I am working to bridge the gap between biology and computer science by leveraging Artificial Intelligence and Machine Learning.<br>I enjoy listening to music, coding, and reading books.
 
