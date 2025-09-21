@@ -1,8 +1,6 @@
 <!--header -->
 ![Header](./img/github-header-banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrasayan&label=Profile%20views&color=0e75b6&style=flat" alt="patrasayan" /> </p>
-
 <!-- middle -->
 # 💫 About Me:
 
@@ -63,7 +61,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=PatraSayan&icon=0&color=6)](https://visitcount.itsvg.in)
 
 
 
