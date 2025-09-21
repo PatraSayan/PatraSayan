@@ -41,5 +41,11 @@
 [![](https://visitcount.itsvg.in/api?id=PatraSayan&icon=0&color=6)](https://visitcount.itsvg.in)
 
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
