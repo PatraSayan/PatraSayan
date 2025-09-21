@@ -29,7 +29,7 @@
 
 
 # 💻 Tech Stack:
-<table>
+<table border="0" style="border:none;">
   <tr>
     <!-- Left Side: Tech Stack -->
     <td width="60%">
@@ -38,7 +38,7 @@
 
 </td>
     <!-- Right Side: GIF -->
-    <td width="40%" align="center">
+    <td width="40%" align="center" style="border:none;">
       <img src="./img/gif_github.gif" alt="patrasayan" width="300"/>
     </td>
   </tr>
