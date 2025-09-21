@@ -29,6 +29,8 @@
 
 
 # 💻 Tech Stack:
+
+<div display = "flex">
 <p align="left" display = "flex">
       
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -40,7 +42,7 @@
 <p align="right">
   <img src="./img/gif_github.gif" alt="patrasayan" width="300"/>
 </p>
-
+</div>
 
 # 📊 GitHub Stats:
 
