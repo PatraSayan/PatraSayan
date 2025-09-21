@@ -36,11 +36,10 @@
 </p>
 
   <!-- Right Side: GIF -->
-  <div style="flex: 0.5; text-align: right;">
-    <img src="./img/gif_github.gif" alt="patrasayan" width="300"/>
-  </div>
+<p align="center">
+  <img src="./img/gif_github.gif" alt="patrasayan" width="300"/>
+</p>
 
-</div>
 
 # 📊 GitHub Stats:
 
