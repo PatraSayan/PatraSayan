@@ -5,7 +5,8 @@
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrasayan&label=Profile%20views&color=0e75b6&style=flat" alt="patrasayan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrasayan" alt="patrasayan" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PatraSayan&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning.**
 
@@ -35,8 +36,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=PatraSayan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PatraSayan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PatraSayan&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PatraSayan&limit=5&theme=dark&combine_all_yearly_contributions=true)
