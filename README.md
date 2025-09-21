@@ -1,12 +1,11 @@
 <!--header -->
 ![Header](./img/github-header-banner.png)
 
-<!-- middle -->
-# 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrasayan&label=Profile%20views&color=0e75b6&style=flat" alt="patrasayan" /> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PatraSayan&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+<!-- middle -->
+# 💫 About Me:
+
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning.**
 
@@ -19,6 +18,9 @@
 - 📫 How to reach me **patrasayan2024@gmail.com**
 
 - 📄 Know about my experiences [--- working ----](--- working ----)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PatraSayan&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
