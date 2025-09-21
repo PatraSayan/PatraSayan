@@ -29,7 +29,7 @@
 
 
 # 💻 Tech Stack:
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: left; justify-content: space-between;">
 
   <!-- Left Side: Tech Stack -->
   <div style="flex: 1;">
@@ -39,7 +39,7 @@
 </div>
 
   <!-- Right Side: GIF -->
-  <div style="flex: 0.5; text-align: center;">
+  <div style="flex: 0.5; text-align: right;">
     <img src="./img/gif_github.gif" alt="patrasayan" width="300"/>
   </div>
 
