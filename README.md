@@ -37,22 +37,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PatraSayan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PatraSayan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=PatraSayan&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrasayan&" alt="patrasayan" /></p>
 
 
-
-
-<!--- second part -->
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrasayan&show_icons=true&locale=en&layout=compact" alt="patrasayan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrasayan&show_icons=true&locale=en" alt="patrasayan" /></p>
 
