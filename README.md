@@ -36,7 +36,7 @@
 </p>
 
   <!-- Right Side: GIF -->
-<p align="center">
+<p align="right">
   <img src="./img/gif_github.gif" alt="patrasayan" width="300"/>
 </p>
 
