@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at <a href = "https://patrasayan.github.io/SayanPatra.github.io/" target = "_blank"> SayanPatra.github.io </a>
+- 👨‍💻 All of my projects are available at <a href = "https://patrasayan.github.io/SayanPatra.github.io/" target="blank"> SayanPatra.github.io </a>
 
 - 💬 Ask me about **Omics data analysis**
 
 - 📫 How to reach me **patrasayan2024@gmail.com**
 
-- 📄 Know about my experiences <a href = "https://patrasayan.github.io/SayanPatra.github.io/" target = "_blank"> SayanPatra.github.io </a>
+- 📄 Know about my experiences <a href = "https://patrasayan.github.io/SayanPatra.github.io/" target="blank"> SayanPatra.github.io </a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PatraSayan&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
