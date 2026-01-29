@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at <a href = "https://patrasayan.github.io/SayanPatra.github.io/" target="blank"> SayanPatra.github.io </a>
+- 👨‍💻 All of my projects are available at <a href = "https://patrasayan.github.io/" target="blank"> SayanPatra.github.io </a>
 
 - 💬 Ask me about **Omics data analysis**
 
